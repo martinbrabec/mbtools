@@ -97,3 +97,8 @@ Do you see the benefit there? Also, the Result obejct has non-generic base type.
 
 # How will I integrate it?
 Just **download the Result_AllInOneFile.cs** and do whatever you want with it. This structure is just for publication. You will probably split all classes into separate files, update namespaces and extend ResultTypes or ErrorTypes.
+
+# Other
+Using the Result can help you for example with CQRS and validation behavior - [https://stackoverflow.com/questions/44064102/return-response-with-errors-instead-of-throwing-exception-in-validation-pipeline](https://stackoverflow.com/questions/44064102/return-response-with-errors-instead-of-throwing-exception-in-validation-pipeline)
+
+I hope you will find this helpful :)

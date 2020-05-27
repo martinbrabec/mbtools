@@ -101,4 +101,6 @@ Just **download the Result_AllInOneFile.cs** and do whatever you want with it. T
 # Other
 Using the Result can help you for example with CQRS and validation behavior - [https://stackoverflow.com/questions/44064102/return-response-with-errors-instead-of-throwing-exception-in-validation-pipeline](https://stackoverflow.com/questions/44064102/return-response-with-errors-instead-of-throwing-exception-in-validation-pipeline)
 
+If you use Result as global WebApi response, it is a nice touch to return ErrorType and ResultType as string - just for readability.
+
 I hope you will find this helpful :)
